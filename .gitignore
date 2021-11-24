@@ -1,0 +1,4 @@
+.vscode/*
+__pycache__/*
+build/*
+main_unir_excels.spec
